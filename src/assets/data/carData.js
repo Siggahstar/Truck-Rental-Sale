@@ -1,22 +1,22 @@
 // import all images from assets/images directory
-import img01 from "../all-images/cars-img/nissan-offer.png";
-import img02 from "../all-images/cars-img/offer-toyota.png";
-import img03 from "../all-images/cars-img/bmw-offer.png";
-import img04 from "../all-images/cars-img/nissan-offer.png";
-import img05 from "../all-images/cars-img/offer-toyota.png";
-import img06 from "../all-images/cars-img/mercedes-offer.png";
-import img07 from "../all-images/cars-img/toyota-offer-2.png";
-import img08 from "../all-images/cars-img/mercedes-offer.png";
+import img01 from "../all-images/cars-img/2021 Shelby F-150 Super Snake.png";
+import img02 from "../all-images/cars-img/2024 Ford Super Duty F-250.png";
+import img03 from "../all-images/cars-img/Ford Shelby Super Snake.png";
+import img04 from "../all-images/cars-img/2025 Ford F-150 Platinum.webp";
+import img05 from "../all-images/cars-img/2025 Ford F-150 Raptor.webp";
+import img06 from "../all-images/cars-img/Ford F-150 Lightning Flash.png";
+import img07 from "../all-images/cars-img/Ford Shelby Super Snake 2.png";
+import img08 from "../all-images/cars-img/2024 Ford Super Duty F-350 Platinum Truck.png";
 
 const carData = [
   {
     id: 1,
-    brand: "Tesla",
+    brand: "Ford",
     rating: 112,
-    carName: "Tesla Malibu",
+    carName: "2021 Shelby F-150 Super Snake",
     imgUrl: img01,
-    model: "Model 3",
-    price: 50,
+    model: "Model-2021",
+    price: "85,000",
     speed: "20kmpl",
     gps: "GPS Navigation",
     seatType: "Heated seats",
@@ -27,12 +27,12 @@ const carData = [
 
   {
     id: 2,
-    brand: "Toyota",
+    brand: "Ford",
     rating: 102,
-    carName: "Toyota Aventador",
+    carName: "2024 Ford Super Duty F-250",
     imgUrl: img02,
-    model: "Model-2022",
-    price: 50,
+    model: "Model-2024",
+    price: "115,000",
     speed: "20kmpl",
     gps: "GPS Navigation",
     seatType: "Heated seats",
@@ -43,12 +43,12 @@ const carData = [
 
   {
     id: 3,
-    brand: "BMW",
+    brand: "Ford",
     rating: 132,
-    carName: "BMW X3",
+    carName: "Ford Shelby Super Snake",
     imgUrl: img03,
     model: "Model-2022",
-    price: 65,
+    price: "65,000",
     speed: "20kmpl",
     gps: "GPS Navigation",
     seatType: "Heated seats",
@@ -59,12 +59,12 @@ const carData = [
 
   {
     id: 4,
-    brand: "Nissan",
+    brand: "Ford",
     rating: 102,
-    carName: "Nissan Mercielago",
+    carName: "2025 Ford F-150 Platinum",
     imgUrl: img04,
-    model: "Model-2022",
-    price: 70,
+    model: "Model-2025",
+    price: "135,000",
     speed: "20kmpl",
     gps: "GPS Navigation",
     seatType: "Heated seats",
@@ -75,12 +75,12 @@ const carData = [
 
   {
     id: 5,
-    brand: "Ferrari",
+    brand: "Ford",
     rating: 94,
-    carName: "Ferrari Camry",
+    carName: "2025 Ford F-150 Raptor",
     imgUrl: img05,
-    model: "Model-2022",
-    price: 45,
+    model: "Model-2025",
+    price: "145,000",
     speed: "20kmpl",
     gps: "GPS Navigation",
     seatType: "Heated seats",
@@ -91,12 +91,12 @@ const carData = [
 
   {
     id: 6,
-    brand: "Mercedes",
+    brand: "Ford",
     rating: 119,
-    carName: "Mercedes Benz XC90",
+    carName: "Ford F-150 Lightning Flash",
     imgUrl: img06,
     model: "Model-2022",
-    price: 85,
+    price: "55,000",
     speed: "20kmpl",
     gps: "GPS Navigation",
     seatType: "Heated seats",
@@ -107,12 +107,12 @@ const carData = [
 
   {
     id: 7,
-    brand: "Audi",
+    brand: "Ford",
     rating: 82,
-    carName: "Audi Fiesta",
+    carName: "Ford Shelby Super Snake 2",
     imgUrl: img07,
-    model: "Model 3",
-    price: 50,
+    model: "Model-2021",
+    price: "65,000",
     speed: "20kmpl",
     gps: "GPS Navigation",
     seatType: "Heated seats",
@@ -123,12 +123,12 @@ const carData = [
 
   {
     id: 8,
-    brand: "Colorado",
+    brand: "Ford",
     rating: 52,
-    carName: "Rolls Royce Colorado",
+    carName: "2024 Ford Super Duty F-350 Platinum Truck",
     imgUrl: img08,
-    model: "Model 3",
-    price: 50,
+    model: "Model-2024",
+    price: "80,000",
     speed: "20kmpl",
     gps: "GPS Navigation",
     seatType: "Heated seats",

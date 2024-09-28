@@ -1,7 +1,7 @@
 import React from "react";
 import { Container, Row, Col } from "reactstrap";
 import "../../styles/about-section.css";
-import aboutImg from "../../assets/all-images/cars-img/bmw-offer.png";
+import aboutImg from "../../assets/all-images/cars-img/2024 Ford Super Duty F-350 Platinum Truck.png";
 
 const AboutSection = ({ aboutClass }) => {
   return (

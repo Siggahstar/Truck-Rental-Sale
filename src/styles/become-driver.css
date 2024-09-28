@@ -1,5 +1,5 @@
 .become__driver {
-  background: linear-gradient(rgb(0, 13, 107, 0.9), rgb(0, 13, 107, 0.9)),
+  background: linear-gradient(rgba(48, 49, 49, 0.9), rgba(45, 45, 48, 0.9)),
     url("../assets/all-images/drive.jpg");
   background-position: center;
   background-repeat: no-repeat;
@@ -14,6 +14,7 @@
 }
 
 .become__driver-title {
+  padding-top: 2em;
   font-size: 2.8rem;
   color: #fff;
   line-height: 65px;

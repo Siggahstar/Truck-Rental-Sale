@@ -1,6 +1,6 @@
 .find__cars-left {
-  background: linear-gradient(rgb(249, 168, 38, 0.9), rgb(249, 168, 38, 0.9)),
-    url("../assets/all-images/toyota-offer-2.png");
+  background: linear-gradient(rgba(91, 92, 92, 0.9), rgba(69, 69, 73, 0.9)),
+    url("../assets/all-images/Ford F-150 Lightning Flash 2.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -73,7 +73,7 @@
 }
 
 .find__car-btn {
-  background: #000d6b !important;
+  background: #0A0A0A !important;
   color: #fff !important;
   padding: 8px 15px;
   width: 100%;
